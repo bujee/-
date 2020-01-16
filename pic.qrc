@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>png/系统 (9).ico</file>
+    <file>png/back_72px_1128270_easyicon.net.ico</file>
+    <file>png/copy.ico</file>
+    <file>png/copy_documents_duplicate_files_72px_1496_easyicon.net.ico</file>
+    <file>png/Counterclockwise_arrow_72px_1186284_easyicon.net.ico</file>
+    <file>png/cut_scissors_72px_11854_easyicon.net.ico</file>
+    <file>png/down_72px_1128283_easyicon.net.ico</file>
+    <file>png/f11.ico</file>
+    <file>png/f13.ico</file>
+    <file>png/folder_open_72px_12180_easyicon.net.ico</file>
+    <file>png/folder_remove_72px_534770_easyicon.net.ico</file>
+    <file>png/format_color_text_72px_1181894_easyicon.net.ico</file>
+    <file>png/forward_72px_1128288_easyicon.net.ico</file>
+    <file>png/Freeform_pen_tool_72px_1185771_easyicon.net.ico</file>
+    <file>png/Go_into_72px_1186175_easyicon.net.ico</file>
+    <file>png/Male_72px_1185960_easyicon.net.ico</file>
+    <file>png/Paste_72px_556421_easyicon.net.ico</file>
+    <file>png/preferences_desktop_font_2_72px_541025_easyicon.net.ico</file>
+    <file>png/Recycle_Closed_72px_1077383_easyicon.net.ico</file>
+    <file>png/refresh_synchronize_72px_11189_easyicon.net.ico</file>
+    <file>png/Save_72px_1093707_easyicon.net.ico</file>
+    <file>png/stock_new_text_72px_1078490_easyicon.net.ico</file>
+    <file>png/trash_72px_1187359_easyicon.net.ico</file>
+    <file>png/Undo_72px_1186327_easyicon.net.ico</file>
+    <file>png/up_72px_1128292_easyicon.net.ico</file>
+    <file>png/系统 (9).png</file>
+    <file>png/系统 (52).ico</file>
+  </qresource>
+</RCC>
